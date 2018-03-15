@@ -1,0 +1,854 @@
+Tue, 13 Mar 2018 21:38:23  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:24  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:25  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:27  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:28  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:29  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:30  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:31  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:33  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:34  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:35  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:36  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:38  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:39  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:40  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:41  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:53  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:55  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:56  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:38:57  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:00  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:01  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:02  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:03  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:04  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:06  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:07  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:08  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:09  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:11  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:15  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:39:16  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=d91fd297e9c02a09f3b016c939f18dbbc68b577cf5dc190869c56a0d6006bc78fd799053ab32ca4c92d2115e778cc0a848a47fdf4235789eaf706d0f202a6ac7&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:318] INFO PTWebQQ: e56e78e063f9c458712250c6a1c9ba83be062a9d63be7908ace37304cfce8383
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"04b3fe3ba2f38cf20fe3b7d2a13e4d4a1ac3a7586439bb2e9219022dff82100461acccf1cd2ccb81"}}
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:39:29  QQBot.py[line:344] CRITICAL 登陆二维码用时0.333秒
+Tue, 13 Mar 2018 21:39:33  QQBot.py[line:752] ERROR 无法找到群：730337636
+Tue, 13 Mar 2018 21:39:34  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:35  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:36  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:38  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:39  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:40  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:41  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:44  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:53  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:55  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:57  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:58  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:39:59  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:00  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:02  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:03  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:05  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:06  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:07  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:08  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:09  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:11  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:12  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:13  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:14  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:16  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:17  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:18  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:19  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:20  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:22  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:23  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:24  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:25  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:26  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:28  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:29  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:30  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:31  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:40:34  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=f2901a3998c12e23749acd46b8807dfab82768feb20d76a1a1a02495e02087f7097c5a274919eb4dbeae6e154ea6e54f2a847a3e1ed2114220fb613ffaec8fa7&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:318] INFO PTWebQQ: 08f87c1d9b4e2afeacf7ef4f42a2058d2718445f8040b5633db6d0af7ea0cd8d
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"6e4331b9be4622fd1e9cab8244ff0b5acc7ecb1b65f7c73c7462f5ddae3c4a9d334f27ac5ebcf1fc"}}
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:40:50  QQBot.py[line:344] CRITICAL 登陆二维码用时0.347秒
+Tue, 13 Mar 2018 21:40:53  QQBot.py[line:752] ERROR 无法找到群：littleQRobot
+Tue, 13 Mar 2018 21:40:56  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:58  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:40:59  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:00  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:02  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:07  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:08  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:09  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:11  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:12  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:13  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:14  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:15  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:17  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:41:18  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:45:47  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:45:58  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=33c6a9ed0d296cd3fba56b68908df39641b3632c62c669f9a91982d15da32951ac7f650e23677b5abc525adaa9403c8c7a6e44cdf2c4c8acc000044b8af31598&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:45:58  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:45:58  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:45:58  QQBot.py[line:318] INFO PTWebQQ: 0657470979f687200984707eeeeb4e8cfd4075ef4137f2eda893cdbf69105cd3
+Tue, 13 Mar 2018 21:45:59  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"c744bb091f25e168e7c656f0ce21323b3d43b497e9e8014c60ed73c22d334336a8dd8fe45d040f7c"}}
+Tue, 13 Mar 2018 21:45:59  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:45:59  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:45:59  QQBot.py[line:344] CRITICAL 登陆二维码用时0.381秒
+Tue, 13 Mar 2018 21:46:02  QQBot.py[line:753] ERROR 无法找到群：littleQRobot
+Tue, 13 Mar 2018 21:47:02  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:47:08  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}]],"from_uin":2017980064,"group_code":2017980064,"msg_id":31491,"msg_type":4,"send_uin":2484698868,"time":1520948829,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:47:08  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:47:25  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"这个明明可以for一遍看看群号啊",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":31492,"msg_type":4,"send_uin":2484698868,"time":1520948847,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:47:25  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:52:06  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=05fe16de852165d3b89cddf1cb966de2139beb3fcbfc032fb5ddc966eb0c40bc6795a922072fdb1efff5fba10c834db976292860c8dce128a3878d1b1a57ae4c&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:318] INFO PTWebQQ: f20ecdc8c662f2111a959b5ab21bcd0242f0cecc0a39d63ca78794c99ed6dbc3
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"e517820254cece9e78094709abc935406dfe9220de5c2fecbda3b9494560ea6d64dcf8563a0ec234"}}
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:52:35  QQBot.py[line:344] CRITICAL 登陆二维码用时0.33秒
+Tue, 13 Mar 2018 21:52:38  QQBot.py[line:754] ERROR 无法找到群：littleQRobot
+Tue, 13 Mar 2018 21:52:38  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"感觉没问题啊？"],"from_uin":2017980064,"group_code":2017980064,"msg_id":32685,"msg_type":4,"send_uin":199257949,"time":1520949126,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:52:38  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:53:03  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:53:04  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=6273b88296f3fd597dd67396a822e0ff4ea5632571f148dd2d3b7116369ab4ca4622e5d0d0f24abed032d869f4d469cc8676cceaa3f3b3bcdfed7cc9ef3f62a2&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:318] INFO PTWebQQ: 34bfc3bf2189babaec8c80d37dcc27acecc7c7f610329f8e3c6d32da450e977c
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"47c40f22d9d54ac1e6277ac2d61e4511375cbbd74332eeb7eab995f1393841099470b5c8236afaac"}}
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:53:15  QQBot.py[line:344] CRITICAL 登陆二维码用时0.337秒
+Tue, 13 Mar 2018 21:53:18  QQBot.py[line:754] ERROR 无法找到群：littleQRobot
+Tue, 13 Mar 2018 21:53:29  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我"],"from_uin":2017980064,"group_code":2017980064,"msg_id":31503,"msg_type":4,"send_uin":2484698868,"time":1520949210,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:53:29  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:53:30  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"去"],"from_uin":2017980064,"group_code":2017980064,"msg_id":31504,"msg_type":4,"send_uin":2484698868,"time":1520949212,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:53:30  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:53:38  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我打错大小写了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":31505,"msg_type":4,"send_uin":2484698868,"time":1520949220,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:53:38  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:53:39  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:53:49  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:54:34  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=24de170dcc667e90eee06a59cbcdb56b3b06c56e6f6eb17004390f6585366230cd831c66fe3257c2fd5f62a9f2c9c92a2c032bc84a0515c7b64cc3cbe55e453c&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:54:34  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:54:35  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:54:35  QQBot.py[line:318] INFO PTWebQQ: 83c19615b3d7a00bd21c1de118a1ac799c8929916647f183b92c4d56e59b4336
+Tue, 13 Mar 2018 21:54:35  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"6fede039eedf25f3d357e87e7b8098dbc754be44dea7af06ae6b09b000d10d4c25e95c804f3e950c"}}
+Tue, 13 Mar 2018 21:54:35  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:54:35  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:54:35  QQBot.py[line:344] CRITICAL 登陆二维码用时0.374秒
+Tue, 13 Mar 2018 21:54:38  QQBot.py[line:752] INFO 关注:littleQrobot
+Tue, 13 Mar 2018 21:54:39  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:54:59  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"！about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42241,"msg_type":4,"send_uin":46167677,"time":1520949301,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:54:59  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:55:05  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42242,"msg_type":4,"send_uin":46167677,"time":1520949307,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:55:05  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:55:38  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:56:06  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:56:38  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:56:45  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"哈，这样啊"],"from_uin":2017980064,"group_code":2017980064,"msg_id":19419,"msg_type":4,"send_uin":2316293033,"time":1520949407,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:56:45  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 21:57:45  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:57:46  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:265] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:269] INFO get sign : 
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:272] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:275] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 21:58:16  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 21:58:46  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=5a369c4425b7c9814d9a860a65e686b14b2b5156719b77152e5610b740cc70dca581283abb0113fc7119122e1e01d4f83f1924dc22fc6a989da64387da3b3a9d&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:318] INFO PTWebQQ: 9f7c4a24fa80f1e6df1d99501eda095012e46c23512778860aa27382ab7e9315
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"7f4dd1aca2b69792c88f612d0f8bf0e83ff72273dca10622b2a9d5e1b3c07fc545b6fb77d2bcc90a"}}
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:342] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:343] INFO Login success
+Tue, 13 Mar 2018 21:58:47  QQBot.py[line:344] CRITICAL 登陆二维码用时0.371秒
+Tue, 13 Mar 2018 21:58:51  QQBot.py[line:752] INFO 关注:littleQrobot
+Tue, 13 Mar 2018 21:59:09  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"test"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42244,"msg_type":4,"send_uin":46167677,"time":1520949551,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:59:09  QQBot.py[line:669] INFO 读取存档出错:[Errno 2] No such file or directory: 'database.2017980064.save'
+Tue, 13 Mar 2018 21:59:09  QQBot.py[line:180] INFO 群线程已生成
+Tue, 13 Mar 2018 21:59:29  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42246,"msg_type":4,"send_uin":46167677,"time":1520949570,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:59:29  QQBot.py[line:701] INFO output about info
+Tue, 13 Mar 2018 21:59:29  QQBot.py[line:557] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe5\xb0\x8f\xe9\xbb\x84\xe9\xb8\xa13.8 By Jeffery \xe8\xaf\xa6\xe7\xbb\x86\xe8\xaf\xb4\xe6\x98\x8e\xe8\xa7\x81github.com/zeruniverse/QQRobot\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":29033,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 21:59:29  QQBot.py[line:566] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 21:59:29  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"小黄鸡3.8 By Jeffery 详细说明见github.com/zeruniverse/QQRobot"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42309,"msg_type":4,"send_uin":2484698868,"time":1520949571,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:59:40  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"啊哈"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42247,"msg_type":4,"send_uin":46167677,"time":1520949582,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 21:59:46  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:00:13  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我们找的是同一个东西"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23634,"msg_type":4,"send_uin":1467618314,"time":1520949615,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:00:13  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:00:40  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:01:04  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"你在那里调试输出一下"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42250,"msg_type":4,"send_uin":46167677,"time":1520949665,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:01:13  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:01:17  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我又改了改171行"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42251,"msg_type":4,"send_uin":46167677,"time":1520949678,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:01:17  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:01:40  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"把guin改成gid了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42252,"msg_type":4,"send_uin":46167677,"time":1520949702,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:01:40  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:02:04  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:02:40  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:02:59  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"感觉有可能是api又改了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42254,"msg_type":4,"send_uin":46167677,"time":1520949781,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:02:59  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:03:04  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:03:59  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"等会儿，刚到宿舍",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":23643,"msg_type":4,"send_uin":1467618314,"time":1520949841,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:03:59  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:04:14  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 这程序怎么改啊"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42256,"msg_type":4,"send_uin":46167677,"time":1520949856,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:04:14  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:04:50  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"好像又不行了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42258,"msg_type":4,"send_uin":46167677,"time":1520949892,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:04:50  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:04:54  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"气啊"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42259,"msg_type":4,"send_uin":46167677,"time":1520949895,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:04:54  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:04:59  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:05:02  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42260,"msg_type":4,"send_uin":46167677,"time":1520949904,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:05:02  QQBot.py[line:701] INFO output about info
+Tue, 13 Mar 2018 22:05:02  QQBot.py[line:557] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe5\xb0\x8f\xe9\xbb\x84\xe9\xb8\xa13.8 By Jeffery \xe8\xaf\xa6\xe7\xbb\x86\xe8\xaf\xb4\xe6\x98\x8e\xe8\xa7\x81github.com/zeruniverse/QQRobot\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":29033,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:05:02  QQBot.py[line:566] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:05:02  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"小黄鸡3.8 By Jeffery 详细说明见github.com/zeruniverse/QQRobot"],"from_uin":2017980064,"group_code":2017980064,"msg_id":31307,"msg_type":4,"send_uin":2484698868,"time":1520949904,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:05:06  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"??"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42261,"msg_type":4,"send_uin":46167677,"time":1520949908,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:05:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:08  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:27  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!follow {Banlk}"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42262,"msg_type":4,"send_uin":46167677,"time":1520949989,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:37  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"haha"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42263,"msg_type":4,"send_uin":46167677,"time":1520949999,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:54  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"??"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42265,"msg_type":4,"send_uin":46167677,"time":1520950016,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:54  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:06:56  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"??"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42266,"msg_type":4,"send_uin":46167677,"time":1520950017,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:06:56  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:07:37  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"你好"],"from_uin":46167677,"msg_id":42273,"msg_type":1,"time":1520950060,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:459] INFO 私聊线程生成，私聊对象UIN：46167677
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:483] INFO PM get info from AI: 你好
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:486] INFO AI REPLY:{"code":40001,"text":"亲爱的，key不对哦。"}
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:499] ERROR ERROR:'errCode'
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我今天累了，不聊了"],"from_uin":2484698868,"msg_id":2270,"msg_type":1,"time":1520950060,"to_uin":46167677}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:459] INFO 私聊线程生成，私聊对象UIN：2484698868
+Tue, 13 Mar 2018 22:07:38  QQBot.py[line:483] INFO PM get info from AI: 我今天累了，不聊了
+Tue, 13 Mar 2018 22:07:39  QQBot.py[line:486] INFO AI REPLY:{"code":40001,"text":"亲爱的，key不对哦。"}
+Tue, 13 Mar 2018 22:07:39  QQBot.py[line:499] ERROR ERROR:'errCode'
+Tue, 13 Mar 2018 22:07:51  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"为什么群里就不行啊"],"from_uin":46167677,"msg_id":42274,"msg_type":1,"time":1520950073,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:51  QQBot.py[line:483] INFO PM get info from AI: 为什么群里就不行啊
+Tue, 13 Mar 2018 22:07:51  QQBot.py[line:486] INFO AI REPLY:{"code":40001,"text":"亲爱的，key不对哦。"}
+Tue, 13 Mar 2018 22:07:51  QQBot.py[line:499] ERROR ERROR:'errCode'
+Tue, 13 Mar 2018 22:07:51  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我今天累了，不聊了"],"from_uin":2484698868,"msg_id":33565,"msg_type":1,"time":1520950073,"to_uin":46167677}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:51  QQBot.py[line:483] INFO PM get info from AI: 我今天累了，不聊了
+Tue, 13 Mar 2018 22:07:52  QQBot.py[line:486] INFO AI REPLY:{"code":40001,"text":"亲爱的，key不对哦。"}
+Tue, 13 Mar 2018 22:07:52  QQBot.py[line:499] ERROR ERROR:'errCode'
+Tue, 13 Mar 2018 22:07:54  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":23651,"msg_type":4,"send_uin":1467618314,"time":1520950076,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:54  QQBot.py[line:701] INFO output about info
+Tue, 13 Mar 2018 22:07:54  QQBot.py[line:557] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe5\xb0\x8f\xe9\xbb\x84\xe9\xb8\xa13.8 By Jeffery \xe8\xaf\xa6\xe7\xbb\x86\xe8\xaf\xb4\xe6\x98\x8e\xe8\xa7\x81github.com/zeruniverse/QQRobot\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":29033,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:07:55  QQBot.py[line:566] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:07:55  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"小黄鸡3.8 By Jeffery 详细说明见github.com/zeruniverse/QQRobot"],"from_uin":2017980064,"group_code":2017980064,"msg_id":46296,"msg_type":4,"send_uin":2484698868,"time":1520950076,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:07:56  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:02  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"啥玩意儿啊"],"from_uin":46167677,"msg_id":42275,"msg_type":1,"time":1520950084,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:02  QQBot.py[line:459] INFO 私聊线程生成，私聊对象UIN：46167677
+Tue, 13 Mar 2018 22:08:02  QQBot.py[line:483] INFO PM get info from AI: 啥玩意儿啊
+Tue, 13 Mar 2018 22:08:02  QQBot.py[line:486] INFO AI REPLY:{"code":40001,"text":"亲爱的，key不对哦。"}
+Tue, 13 Mar 2018 22:08:02  QQBot.py[line:499] ERROR ERROR:'errCode'
+Tue, 13 Mar 2018 22:08:03  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我今天累了，不聊了"],"from_uin":2484698868,"msg_id":46012,"msg_type":1,"time":1520950084,"to_uin":46167677}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:03  QQBot.py[line:459] INFO 私聊线程生成，私聊对象UIN：2484698868
+Tue, 13 Mar 2018 22:08:03  QQBot.py[line:483] INFO PM get info from AI: 我今天累了，不聊了
+Tue, 13 Mar 2018 22:08:03  QQBot.py[line:486] INFO AI REPLY:{"code":40001,"text":"亲爱的，key不对哦。"}
+Tue, 13 Mar 2018 22:08:03  QQBot.py[line:499] ERROR ERROR:'errCode'
+Tue, 13 Mar 2018 22:08:10  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 法克"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23653,"msg_type":4,"send_uin":1467618314,"time":1520950092,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:10  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:08:16  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}]],"from_uin":2017980064,"group_code":2017980064,"msg_id":42277,"msg_type":4,"send_uin":46167677,"time":1520950098,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:16  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:08:26  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],["face",0],["face",0]],"from_uin":2017980064,"group_code":2017980064,"msg_id":23655,"msg_type":4,"send_uin":1467618314,"time":1520950108,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:26  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:08:33  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"怕是这个小黄鸡关掉了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42279,"msg_type":4,"send_uin":46167677,"time":1520950114,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:33  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:08:42  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"那就没问题"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42281,"msg_type":4,"send_uin":46167677,"time":1520950124,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:08:42  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:08:55  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:09:22  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我们想想怎么着手改造吧"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42283,"msg_type":4,"send_uin":46167677,"time":1520950164,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:09:42  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:10:13  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我的想法是对于每一个对话搞一个编号",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42285,"msg_type":4,"send_uin":46167677,"time":1520950215,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:10:13  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:10:22  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:10:31  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"转到群里就是"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42286,"msg_type":4,"send_uin":46167677,"time":1520950233,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:11:13  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:11:19  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"*12345* 今天小Q好辛苦类似的格式"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42289,"msg_type":4,"send_uin":46167677,"time":1520950281,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:11:19  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:11:31  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:12:20  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"@Banlk",""," 试试回复是什么东西"],"from_uin":2017980064,"group_code":2017980064,"msg_id":31518,"msg_type":4,"send_uin":2484698868,"time":1520950342,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:12:23  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:12:46  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我在想直接回复它的消息格式是怎样的"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42296,"msg_type":4,"send_uin":46167677,"time":1520950368,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:12:46  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:12:53  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"emmm"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42297,"msg_type":4,"send_uin":46167677,"time":1520950375,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:12:53  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:13:20  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:13:53  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:14:06  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"log.log里面看？"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23696,"msg_type":4,"send_uin":1467618314,"time":1520950448,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:14:06  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:14:20  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:14:55  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"test"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42299,"msg_type":4,"send_uin":46167677,"time":1520950497,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:15:07  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:15:55  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:16:03  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"居然是这样的"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25020,"msg_type":4,"send_uin":46167677,"time":1520950565,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:16:15  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:16:49  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"哦哦我知道了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25022,"msg_type":4,"send_uin":46167677,"time":1520950611,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:16:49  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:17:02  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"smartqq应该不支持这类消息的显示"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25023,"msg_type":4,"send_uin":46167677,"time":1520950624,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:17:02  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:17:03  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:17:27  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"所以数据包里就只有","@Banlk",""," "],"from_uin":2017980064,"group_code":2017980064,"msg_id":25024,"msg_type":4,"send_uin":46167677,"time":1520950649,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:17:33  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"监控\"小Q\"这两个字怎样"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23701,"msg_type":4,"send_uin":1467618314,"time":1520950655,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:17:59  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"监控@FAQ"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23705,"msg_type":4,"send_uin":1467618314,"time":1520950681,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:18:02  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:18:23  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"不用了吧"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25027,"msg_type":4,"send_uin":46167677,"time":1520950705,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:18:23  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:18:34  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"终归还是要区分不同对话"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25028,"msg_type":4,"send_uin":46167677,"time":1520950716,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:18:34  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:18:46  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"直接开头加*12345*这样吧",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":25029,"msg_type":4,"send_uin":46167677,"time":1520950728,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:18:46  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:18:59  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:19:17  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"也不用开头"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25030,"msg_type":4,"send_uin":46167677,"time":1520950759,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:19:34  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"split一下取中间的一串就是编号了",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":25031,"msg_type":4,"send_uin":46167677,"time":1520950775,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:19:45  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"嗯"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23718,"msg_type":4,"send_uin":1467618314,"time":1520950787,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:19:46  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:20:13  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"或者$打的人可能更少一点wwww",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":25033,"msg_type":4,"send_uin":46167677,"time":1520950815,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:20:13  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:20:29  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我来看看有哪些东西是可以删的"],"from_uin":2017980064,"group_code":2017980064,"msg_id":25034,"msg_type":4,"send_uin":46167677,"time":1520950830,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:20:29  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:20:45  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:21:24  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":25035,"msg_type":4,"send_uin":46167677,"time":1520950886,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:21:24  QQBot.py[line:701] INFO output about info
+Tue, 13 Mar 2018 22:21:24  QQBot.py[line:557] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe5\xb0\x8f\xe9\xbb\x84\xe9\xb8\xa13.8 By Jeffery \xe8\xaf\xa6\xe7\xbb\x86\xe8\xaf\xb4\xe6\x98\x8e\xe8\xa7\x81github.com/zeruniverse/QQRobot\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":29033,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:21:24  QQBot.py[line:566] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:21:24  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"小黄鸡3.8 By Jeffery 详细说明见github.com/zeruniverse/QQRobot"],"from_uin":2017980064,"group_code":2017980064,"msg_id":16614,"msg_type":4,"send_uin":2484698868,"time":1520950886,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:21:29  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:263] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:266] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:268] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:270] INFO get sign : 
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:271] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:273] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:274] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:276] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 22:21:33  QQBot.py[line:283] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:297] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=291364437&service=ptqrlogin&nodirect=0&ptsigx=9691603327b1069e8e31e626ac27601825f2fd957b399068e4c7758e140ecd38dcffc96a61fec6010af1c23bddff2a15664a09c3b94f24b93d6dae18a088153c&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'Banlk', ')']
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:301] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:319] INFO PTWebQQ: 3c5ca14001c0b3c7ed15de092a0ba1a3e1c6f3d4e11524a73c2570ff3af2b339
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:329] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"a964053beb4f87bb487c2313e3c8057daa48b205878731e4d3d5aac6d40a7b38ed65eaf628952146"}}
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:343] CRITICAL QQ号：291364437 登陆成功, 用户名：Banlk
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:344] INFO Login success
+Tue, 13 Mar 2018 22:22:02  QQBot.py[line:345] CRITICAL 登陆二维码用时0.332秒
+Tue, 13 Mar 2018 22:22:05  QQBot.py[line:753] INFO 关注:littleQrobot
+Tue, 13 Mar 2018 22:22:06  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:08  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:08  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42306,"msg_type":4,"send_uin":46167677,"time":1520950930,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:08  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:22:09  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:10  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:11  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:12  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:13  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:15  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:16  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:17  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:18  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:19  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":31524,"msg_type":4,"send_uin":2484698868,"time":1520950941,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:19  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:22:19  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:23  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:25  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:26  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],["face",25]],"from_uin":2017980064,"group_code":2017980064,"msg_id":23734,"msg_type":4,"send_uin":1467618314,"time":1520950948,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:26  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:22:26  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:27  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:28  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:29  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:30  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:32  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:33  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:34  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:35  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:36  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:38  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:39  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:42  QQBot.py[line:263] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:266] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:268] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:270] INFO get sign : 
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:271] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:273] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:274] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:276] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 22:22:43  QQBot.py[line:283] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:297] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=2e691fe190c7900d9eef77a3283299038ad1c276aeeb459ad5ce74a776728021e6c655b99b1ac6bb2d518f4fdd25fe2b9b78de1a96e129b702d21830ed73a00b&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:301] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:319] INFO PTWebQQ: 98c26852bcd9fcf34f26f99dd70793d6a77de798406ddcb2d34a8e3d8be066a7
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:329] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"7dd7a3927ccbc8116ad6c2640150e1d44376940552a0870809278b9bfa6007edfc4653ca0f0a8235"}}
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:343] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:344] INFO Login success
+Tue, 13 Mar 2018 22:22:54  QQBot.py[line:345] CRITICAL 登陆二维码用时0.35秒
+Tue, 13 Mar 2018 22:22:57  QQBot.py[line:753] INFO 关注:littleQrobot
+Tue, 13 Mar 2018 22:22:59  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42309,"msg_type":4,"send_uin":46167677,"time":1520950981,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:22:59  QQBot.py[line:167] INFO !about
+Tue, 13 Mar 2018 22:22:59  QQBot.py[line:670] INFO 读取存档出错:[Errno 2] No such file or directory: 'database.2017980064.save'
+Tue, 13 Mar 2018 22:23:00  QQBot.py[line:702] INFO output about info
+Tue, 13 Mar 2018 22:23:00  QQBot.py[line:558] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe8\xbf\x99\xe8\x87\xb3\xe5\xb0\x91\xe8\xaf\xb4\xe6\x98\x8e\xe6\x88\x91\xe8\xbf\x9e\xe4\xb8\x8a\xe4\xba\x86\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":26194,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:23:00  QQBot.py[line:567] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:23:00  QQBot.py[line:181] INFO 群线程已生成
+Tue, 13 Mar 2018 22:23:00  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"这至少说明我连上了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":3954,"msg_type":4,"send_uin":2484698868,"time":1520950982,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:00  QQBot.py[line:167] INFO 这至少说明我连上了
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!about",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42310,"msg_type":4,"send_uin":46167677,"time":1520950985,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:167] INFO !about
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:702] INFO output about info
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:558] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe8\xbf\x99\xe8\x87\xb3\xe5\xb0\x91\xe8\xaf\xb4\xe6\x98\x8e\xe6\x88\x91\xe8\xbf\x9e\xe4\xb8\x8a\xe4\xba\x86\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":26194,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:567] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"这至少说明我连上了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":61288,"msg_type":4,"send_uin":2484698868,"time":1520950985,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:167] INFO 这至少说明我连上了
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:549] INFO REPLY TOO FAST, ABANDON：这至少说明我连上了
+Tue, 13 Mar 2018 22:23:03  QQBot.py[line:619] INFO 已复读：{这至少说明我连上了}
+Tue, 13 Mar 2018 22:23:08  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"它是如果答不出就学说话的吧"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23735,"msg_type":4,"send_uin":1467618314,"time":1520950989,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:08  QQBot.py[line:167] INFO 它是如果答不出就学说话的吧
+Tue, 13 Mar 2018 22:23:21  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"不是。。我刚才登错号。。"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42311,"msg_type":4,"send_uin":46167677,"time":1520951003,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:21  QQBot.py[line:167] INFO 不是。。我刚才登错号。。
+Tue, 13 Mar 2018 22:23:26  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:26  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}]],"from_uin":2017980064,"group_code":2017980064,"msg_id":42312,"msg_type":4,"send_uin":46167677,"time":1520951008,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:26  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:23:32  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],["face",0]],"from_uin":2017980064,"group_code":2017980064,"msg_id":23737,"msg_type":4,"send_uin":1467618314,"time":1520951014,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:23:32  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:24:21  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:24:32  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:25:28  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:25:32  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:263] CRITICAL 正在获取登陆页面
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}]],"from_uin":2017980064,"group_code":2017980064,"msg_id":23746,"msg_type":4,"send_uin":1467618314,"time":1520951142,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:266] CRITICAL 正在获取appid
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:268] CRITICAL 正在获取login_sig
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:270] INFO get sign : 
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:271] CRITICAL 正在获取pt_version
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:273] INFO get g_pt_version : 10233
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:274] CRITICAL 正在获取mibao_css
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:276] INFO get g_mibao_css : 
+Tue, 13 Mar 2018 22:25:40  QQBot.py[line:283] INFO [1] Get QRCode Picture Success.
+Tue, 13 Mar 2018 22:25:44  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我以为是这个"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23747,"msg_type":4,"send_uin":1467618314,"time":1520951145,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:25:44  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:25:55  QQBot.py[line:297] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2484698868&service=ptqrlogin&nodirect=0&ptsigx=aa50bd35635d24c1eb457e8689a278003efd1fb7a7477194be091622e13d1bf8f5a5ec82fb6feaa0b2ce8b2f4376eceeddc7de8d4464bf326cc6c753b4f43f54&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', 'FA Q', ')']
+Tue, 13 Mar 2018 22:25:55  QQBot.py[line:301] CRITICAL 二维码已扫描，正在登陆
+Tue, 13 Mar 2018 22:25:56  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Tue, 13 Mar 2018 22:25:56  QQBot.py[line:319] INFO PTWebQQ: bb869655297af7cb84dbb150fc6c83422649d8f0acba7864e391703885c40af2
+Tue, 13 Mar 2018 22:25:56  QQBot.py[line:329] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"5a6f230b8dec6a78d391d8282c88109fceceaff3b21b326fb799e371f2f1af2cfdcd7bc4c84f768c"}}
+Tue, 13 Mar 2018 22:25:56  QQBot.py[line:343] CRITICAL QQ号：2484698868 登陆成功, 用户名：FA Q
+Tue, 13 Mar 2018 22:25:56  QQBot.py[line:344] INFO Login success
+Tue, 13 Mar 2018 22:25:56  QQBot.py[line:345] CRITICAL 登陆二维码用时0.319秒
+Tue, 13 Mar 2018 22:25:59  QQBot.py[line:753] INFO 关注:littleQrobot
+Tue, 13 Mar 2018 22:26:22  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai我刚才api设置错了"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42318,"msg_type":4,"send_uin":46167677,"time":1520951184,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:22  QQBot.py[line:167] INFO !ai我刚才api设置错了
+Tue, 13 Mar 2018 22:26:22  QQBot.py[line:670] INFO 读取存档出错:[Errno 2] No such file or directory: 'database.2017980064.save'
+Tue, 13 Mar 2018 22:26:22  QQBot.py[line:181] INFO 群线程已生成
+Tue, 13 Mar 2018 22:26:32  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai ？？"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42319,"msg_type":4,"send_uin":46167677,"time":1520951194,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:32  QQBot.py[line:167] INFO !ai ？？
+Tue, 13 Mar 2018 22:26:32  QQBot.py[line:677] INFO get info from AI: ？？
+Tue, 13 Mar 2018 22:26:33  QQBot.py[line:682] INFO AI REPLY:{"code":100000,"text":"我猜不出来啊。"}
+Tue, 13 Mar 2018 22:26:33  QQBot.py[line:558] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe6\x88\x91\xe7\x8c\x9c\xe4\xb8\x8d\xe5\x87\xba\xe6\x9d\xa5\xe5\x95\x8a\xe3\x80\x82\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":48430,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:26:33  QQBot.py[line:567] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:26:33  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"我猜不出来啊。"],"from_uin":2017980064,"group_code":2017980064,"msg_id":54206,"msg_type":4,"send_uin":2484698868,"time":1520951195,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:33  QQBot.py[line:167] INFO 我猜不出来啊。
+Tue, 13 Mar 2018 22:26:43  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 好的好的"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42321,"msg_type":4,"send_uin":46167677,"time":1520951205,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:43  QQBot.py[line:167] INFO !ai 好的好的
+Tue, 13 Mar 2018 22:26:43  QQBot.py[line:677] INFO get info from AI: 好的好的
+Tue, 13 Mar 2018 22:26:43  QQBot.py[line:682] INFO AI REPLY:{"code":100000,"text":"什么好的。"}
+Tue, 13 Mar 2018 22:26:43  QQBot.py[line:558] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe4\xbb\x80\xe4\xb9\x88\xe5\xa5\xbd\xe7\x9a\x84\xe3\x80\x82\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":48430,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:26:44  QQBot.py[line:567] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:26:44  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"什么好的。"],"from_uin":2017980064,"group_code":2017980064,"msg_id":5497,"msg_type":4,"send_uin":2484698868,"time":1520951205,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:44  QQBot.py[line:167] INFO 什么好的。
+Tue, 13 Mar 2018 22:26:44  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:50  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 你棒棒"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42322,"msg_type":4,"send_uin":46167677,"time":1520951212,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:26:50  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:27:04  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai whose your daddy？"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23762,"msg_type":4,"send_uin":1467618314,"time":1520951226,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:27:04  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:27:07  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 你很棒棒哦"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42323,"msg_type":4,"send_uin":46167677,"time":1520951229,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:27:07  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:27:19  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 哈哈"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42324,"msg_type":4,"send_uin":46167677,"time":1520951241,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:27:19  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:27:27  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 好的好的"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42325,"msg_type":4,"send_uin":46167677,"time":1520951249,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:27:27  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:27:44  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:28:14  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 好的好的"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42327,"msg_type":4,"send_uin":46167677,"time":1520951296,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:28:14  QQBot.py[line:167] INFO !ai 好的好的
+Tue, 13 Mar 2018 22:28:14  QQBot.py[line:677] INFO get info from AI: 好的好的
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:682] INFO AI REPLY:{"code":100000,"text":"什么好的。"}
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:558] INFO Reply package: (('r', '{"group_uin":2017980064, "face":564,"content":"[\\"\xe4\xbb\x80\xe4\xb9\x88\xe5\xa5\xbd\xe7\x9a\x84\xe3\x80\x82\\",[\\"font\\",{\\"name\\":\\"Arial\\",\\"size\\":\\"10\\",\\"style\\":[0,0,0],\\"color\\":\\"000000\\"}]]","clientid":53999199,"msg_id":48430,"psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857"}'), ('clientid', 53999199), ('psessionid', u'8368046764001d636f6e6e7365727665725f77656271714031302e3133332e34312e383400001ad00000066b026e040015808a206d0000000a406172314338344a69526d0000002859185d94e66218548d1ecb1a12513c86126b3afb97a3c2955b1070324790733ddb059ab166de6857'))
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:567] ERROR [Fail to reply group 2017980064]:{"retcode":0}
+
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"什么好的。"],"from_uin":2017980064,"group_code":2017980064,"msg_id":56648,"msg_type":4,"send_uin":2484698868,"time":1520951297,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:167] INFO 什么好的。
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:549] INFO REPLY TOO FAST, ABANDON：什么好的。
+Tue, 13 Mar 2018 22:28:15  QQBot.py[line:619] INFO 已复读：{什么好的。}
+Tue, 13 Mar 2018 22:28:34  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:28:36  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 这个反应不太灵敏啊"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42328,"msg_type":4,"send_uin":46167677,"time":1520951317,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:28:36  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:28:58  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"!ai 爸爸是谁"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23770,"msg_type":4,"send_uin":1467618314,"time":1520951340,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:28:58  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:29:13  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"功能还是我们自己做吧"],"from_uin":2017980064,"group_code":2017980064,"msg_id":42329,"msg_type":4,"send_uin":46167677,"time":1520951355,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:29:13  QQBot.py[line:182] INFO 2017980064群有动态，但是没有被监控
+Tue, 13 Mar 2018 22:29:15  QQBot.py[line:434] INFO Check html: {"errmsg":"error","retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:29:29  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"嗯"],"from_uin":2017980064,"group_code":2017980064,"msg_id":23772,"msg_type":4,"send_uin":1467618314,"time":1520951371,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:29:29  QQBot.py[line:167] INFO 嗯
+Tue, 13 Mar 2018 22:29:36  QQBot.py[line:434] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"这个图灵机器人或许不大适用我们的情景。。",""],"from_uin":2017980064,"group_code":2017980064,"msg_id":42330,"msg_type":4,"send_uin":46167677,"time":1520951378,"to_uin":2484698868}}],"retcode":0,"retmsg":"ok"}
+
+Tue, 13 Mar 2018 22:29:36  QQBot.py[line:167] INFO 这个图灵机器人或许不大适用我们的情景。。
+Tue, 13 Mar 2018 23:43:01  QQBot.py[line:434] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:02  QQBot.py[line:433] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:06  QQBot.py[line:434] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:07  QQBot.py[line:433] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:08  QQBot.py[line:434] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:08  QQBot.py[line:433] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:09  QQBot.py[line:434] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:10  QQBot.py[line:433] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:10  QQBot.py[line:434] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:10  QQBot.py[line:433] INFO Check html: {"retcode":100000,"retmsg":"domain login error"}
+
+Tue, 13 Mar 2018 23:43:10  QQBot.py[line:426] CRITICAL 轮询错误超过五次
+Tue, 13 Mar 2018 23:43:11  QQBot.py[line:425] CRITICAL 轮询错误超过五次
